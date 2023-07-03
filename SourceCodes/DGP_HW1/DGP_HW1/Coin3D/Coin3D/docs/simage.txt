@@ -1,0 +1,29 @@
+This is a precompiled version of simage. It's compiled against the
+multithreaded dynamic CRT, and support for the following file formats
+have been included:
+
+ o SGI RGB - built in. 
+ o TGA - built in
+ o PIC - built in
+ o GIF - through libungif (import only)
+   <URL:http://prtr-13.ucsc.edu/~badger/software/libungif/index.shtml>
+ o PNG - through libpng
+   <URL:http://www.libpng.org/pub/png/libpng.html>
+ o JPG - through libjpeg
+   <URL: http://www.ijg.org>
+ o TIFF - through libtiff
+   <URL: http://www.libtiff.org>
+ o Ogg - through libogg/libvorbis/libvorbisfile
+   <URL: http://www.vorbis.com>
+ o WAV/AIFF++ through libsndfile
+   <URL: http://www.mega-nerd.com/libsndfile>
+
+The library also has support for encoding MPEG II and AVI files.
+Please study the MPEG II patents if you plan to create MPEG II
+encoded files.
+
+Peder <pederb@sim.no>, with big thanks to Tamer Fahmy <tamer@tammura.at> 
+for the precompiled version of libungif.
+
+Peder
+

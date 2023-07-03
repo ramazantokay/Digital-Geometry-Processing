@@ -1,0 +1,25 @@
+man0.off Time Comparison
+dijkstraArrayImplementation Time 0.13369 seconds
+dijkstraArrayImplementation Time 0.0047393 seconds
+dijkstraArrayImplementation Time 0.0039236 seconds
+
+
+gorilla.off Time Comparison
+dijkstraArrayImplementation Time 327.535 seconds
+dijkstraMinHeapImplementation Time 0.228674 seconds
+dijkstraFibHeapImplementation Time 0.197461 seconds
+
+cat.off
+
+dijkstraArrayImplementation Time 395.462 seconds
+dijkstraMinHeapImplementation Time 0.239395 seconds
+dijkstraFibHeapImplementation Time 0.207888 seconds
+
+beetle.off
+dijkstraArrayImplementation Time 201.488 seconds
+dijkstraMinHeapImplementation Time 0.180045 seconds
+dijkstraFibHeapImplementation Time 0.158612 seconds
+
+
+start vertex: 1500
+end vertex: 10000

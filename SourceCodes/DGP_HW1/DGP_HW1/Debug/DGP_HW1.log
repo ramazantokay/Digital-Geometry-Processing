@@ -1,0 +1,35 @@
+﻿  Descriptors.cpp
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Descriptors.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Descriptors.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Descriptors.cpp(62,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Descriptors.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+  Geodesics.cpp
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Geodesics.cpp(126,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Geodesics.cpp(135,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Geodesics.cpp(137,24): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\utility(200,16): warning C4244: 'initializing': conversion from '_Ty' to '_Ty1', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Geodesics.cpp(39,48): message : see reference to function template instantiation 'std::pair<float,int>::pair<double,int,0>(std::pair<double,int> &&) noexcept' being compiled
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Geodesics.cpp(39,20): message : see reference to function template instantiation 'std::pair<float,int>::pair<double,int,0>(std::pair<double,int> &&) noexcept' being compiled
+  main.cpp
+  Mesh.cpp
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Mesh.cpp(34,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Mesh.cpp(120,20): warning C4018: '<': signed/unsigned mismatch
+  Painter.cpp
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(24,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(94,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(113,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(124,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Painter.cpp(127,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\DGP_HW1\Mesh.cpp(169): warning C4715: 'Mesh::getEdgeId': not all control paths return a value
+  DGP_HW1.vcxproj -> C:\Users\Altair\Desktop\589HW1\SourceCodes\DGP_HW1\Debug\DGP_HW1.exe
