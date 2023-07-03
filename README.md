@@ -6,6 +6,7 @@ This repository contains the implementation of my first CENG589 Digital Geometry
 <p align="center">
  <i>Geodesic paths on the beetle model.</i>
 </p>
+
 ## Introduction
 
 In this assignment, we explore various concepts and techniques in digital geometry processing. The main objectives include:
@@ -46,7 +47,6 @@ To get started with the assignment, follow these steps:
 ## Usage
 To use the assignment implementation, follow these steps:
 
-- Build the project according to the provided build instructions.
 - Run the program and provide the necessary input, such as the input mesh file. You can change the input mesh by modifying the input file path in the main function. 
 - The program will ask you which operation you would like to perform. You can choose to compute geodesic distances, descriptors, perform sampling, and apply Laplacian smoothing. 
 - Visualize the results using the Coin3D Open Inventor renderer, which will display the mesh with colored vertices and geodesic paths.
@@ -80,4 +80,14 @@ The following are some of the results obtained using the assignment implementati
 <p align="center">
 <i> Average geodesic distance on the cat model. </i>
 </p>
+
+## Disclaimer
+- Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution.
+
+- Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements.
+
+- Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
