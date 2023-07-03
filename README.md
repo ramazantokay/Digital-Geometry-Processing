@@ -15,7 +15,7 @@ In this assignment, we explore various concepts and techniques in digital geomet
 - Calculating descriptors such as Gaussian curvature and average geodesic distance for each vertex.
 - Visualizing the geodesic paths between query points on the mesh.
 - Sampling points using farthest point sampling (FPS) and computing geodesic distances to the samples.
-- Smoothing the models using Laplacian smoothing and displacement vectors.
+- Smoothing the models using Laplacian smoothing. 
 - Coloring triangles based on the quality using the circum-radius to minimum edge length ratio.
 
 <br>
@@ -32,7 +32,7 @@ The assignment implementation includes the following features:
 - Calculation of Gaussian curvature and average geodesic distance for each vertex.
 - Visualization of geodesic paths between query points on the mesh.
 - Sampling of points using farthest point sampling (FPS) and computing geodesic distances to the samples.
-- Smoothing of models using Laplacian smoothing and displacement vectors.
+- Smoothing of models using Laplacian smoothing.
 - Coloring of triangles based on quality using the circum-radius to minimum edge length ratio.
 - Supports the .off file format for representing input meshes.  
 
@@ -82,11 +82,7 @@ The following are some of the results obtained using the assignment implementati
 </p>
 
 ## Disclaimer
-- Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution.
-
-- Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements.
-
-- Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
+Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution. Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements. Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
