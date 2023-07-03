@@ -1,10 +1,11 @@
 # Digital-Geometry-Processing
 
-This repository contains the implementation of my first Digital Geometry Processing course assignment, focusing on geodesic distances, descriptors (Gaussian curvature and average geodesic distance), farthest point sampling, and Laplacian smoothing. The assignment is based on the Dijkstra's Shortest Path algorithm and utilizes the Coin3D Open Inventor renderer for visualization.
+This repository contains the implementation of my first CENG589 Digital Geometry Processing course assignment, focusing on geodesic distances, descriptors (Gaussian curvature and average geodesic distance), farthest point sampling, and Laplacian smoothing. The assignment is based on the Dijkstra's Shortest Path algorithm and utilizes the Coin3D Open Inventor renderer for visualization.
 
 ![Beetle](Outputs/Geodesic%20on%20Meshes/3beetle/beetle_geodesics.png)
-<center> Geodesic paths on the beetle model. </center>
-
+<p align="center">
+ <i>Geodesic paths on the beetle model.</i>
+</p>
 ## Introduction
 
 In this assignment, we explore various concepts and techniques in digital geometry processing. The main objectives include:
@@ -19,7 +20,9 @@ In this assignment, we explore various concepts and techniques in digital geomet
 <br>
 
 ![Beetle Gaussaian](Outputs/Descriptors-Sampling/3beetle/gaussian_beetle.png)
-<center> Gaussian curvature on the beetle model. </center>
+<p align="center">
+ <i>Gaussian curvature on the beetle model. </i>
+</p>
 
 ## Features
 The assignment implementation includes the following features:
@@ -58,17 +61,23 @@ Dijkstra's Algorithm with Fibonacci Heap Implementation: 0.197461 seconds
 ```
 
 ## Results
-
-
+The following are some of the results obtained using the assignment implementation:
 
 ![Gorilla Laplacian](Outputs/Descriptors-Sampling/4gorilla/laplacian_gorilla.png)
-<center> Laplacian smoothing on the gorilla model. </center>
+<p align="center">
+ <i> Laplacian smoothing on the gorilla model. </i>
+</p>
+
 <br>
 
 ![Gaussian Cat](Outputs/Descriptors-Sampling/1cat/gaussian_cat.png)
-<center> Gaussian curvature on the cat model. </center>
+<p align="center">
+<i> Gaussian curvature on the cat model. </i>
+</p>
 <br>
 
 ![AVG Cat](Outputs/Descriptors-Sampling/1cat/avg_cat.png)
-<center> Average geodesic distance on the cat model. </center>
+<p align="center">
+<i> Average geodesic distance on the cat model. </i>
+</p>
 
